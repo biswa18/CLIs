@@ -1,0 +1,81 @@
+.wrapper{
+	width:100%;
+	margin: auto;
+	background-color:azure;
+}
+.pict{
+	width:275px;
+	height:275px; 	
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+.me{
+	padding-top:10px;
+	float:left;
+	height:800px;
+	width:22%;
+	background-color:blue;
+	margin:0;
+	padding:5px;
+	color:white;
+	
+}
+.naming{
+	width:75%;
+	
+	float:right;
+	position:relative;
+	height:100px;
+	padding:5px;
+	margin:0;
+}
+.education{	
+	width:75%;
+	float:right;
+	position:relative;
+	min-height:300px;
+	padding:5px;
+	margin:0;
+}
+.others{
+	
+	width:75%;
+	float:right;
+	position:relative;
+	height:200px;
+	padding:10px;
+	margin:auto;
+	margin-bottom:0 0 20px 0;
+	
+}
+.hobby{	
+	float:right;	
+	height:100px;
+	position:relative;
+	width:75%;	
+	margin:auto;
+	padding:5px;	
+    
+}
+.fa {
+	opacity:1;
+    padding:20px;
+    font-size: 80px;
+    width:50px;
+    text-align: center;
+	margin:5px 2px;
+    
+}
+.fa-facebook-official{
+	background-color:#3B5998;
+	color:white;
+}
+.fa-twitter{
+	background-color:#55ACEE;
+	color:white;
+}
+.fa-linkedin{
+	background-color:#007bb5;
+	color:white;
+}
